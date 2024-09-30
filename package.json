@@ -7,12 +7,12 @@
   "author": "Simon He",
   "license": "MIT",
   "funding": "https://github.com/sponsors/Simon-He95",
-  "homepage": "https://github.com/common-intellisense/taro3#readme",
+  "homepage": "https://github.com/common-intellisense/taro#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/common-intellisense/taro3.git"
+    "url": "git+https://github.com/common-intellisense/taro.git"
   },
-  "bugs": "https://github.com/common-intellisense/taro3/issues",
+  "bugs": "https://github.com/common-intellisense/taro/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
